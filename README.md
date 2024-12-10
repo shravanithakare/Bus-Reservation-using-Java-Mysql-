@@ -27,5 +27,7 @@ The whole backend is coded in core PHP and MySql.
 * Navigate to the installation in your browser ( E.g : http://localhost/online_bus )
 * Done :)
 ## Authors
+https://github.com/shravanithakare
+
 
 
